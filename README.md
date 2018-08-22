@@ -1,5 +1,5 @@
 # Stealth-action-game-Keep-your-eyes-open-
-I developed the first level of the game in C ++ on the game engine UnrealEngine4
+I developed the first level of the game in C ++ on the game engine UnrealEngine4 (v 4.10)
 
 The project implemented:
 1. Game character (C ++ language).
