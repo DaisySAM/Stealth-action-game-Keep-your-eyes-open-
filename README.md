@@ -15,3 +15,5 @@ The NPC moves along the given points. When a Pawn Sensing Component is detected,
 1.4 Override the OnBeginOverlap event for the interaction of the game character and the object (pick up the item and place it in inventory) (C ++).
 1.5 No mapping (hiding the mesh component and collision), if the player picked it up (C ++).
 4. Interface (widgets) (Blueprint).
+
+[Illustrations of the project](https://github.com/DaisySAM/Stealth-action-game-Keep-your-eyes-open-/issues/1#issue-353031339)
