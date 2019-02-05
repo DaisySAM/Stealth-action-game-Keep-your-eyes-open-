@@ -15,9 +15,9 @@ The project implemented:
 
 The NPC moves along the given points. When a Pawn Sensing Component is detected, the pursuit begins.
 
-    1.1 Mechanics of motion (C ++).
+   1.1 Mechanics of motion (C ++).
     
-    1.2 Motion logic (Behavior Tree and Black Board). In C ++, I wrote a task for BehaviorTree to find points for movement (TargetPoint) and assign them to variables in the Black Board.
+   1.2 Motion logic (Behavior Tree and Black Board). In C ++, I wrote a task for BehaviorTree to find points for movement (TargetPoint) and assign them to variables in the Black Board.
     
 3. Interactive subjects (C ++).
 
