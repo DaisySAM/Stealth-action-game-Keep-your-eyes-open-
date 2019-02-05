@@ -2,8 +2,11 @@
 I developed the first level of the game in C ++ on the game engine UnrealEngine4 (v 4.10)
 
 The project implemented:
+
 1. Game character (C ++ language).
+
 1.1 Movement, camera rotation, jump (C ++).
+
 1.2 Inventory (logic - C ++, visualization - Blueprint).
 1.3 Import skeleton, 3d model and animation. Configure the components.
 2. Not a game character / opponent (C ++).
